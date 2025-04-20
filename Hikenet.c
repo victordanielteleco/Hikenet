@@ -12,3 +12,4 @@ int main()
 	 
 	 return 0;	
 }
+    printf("Paso 2: registro-login\n");
