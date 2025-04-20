@@ -13,3 +13,4 @@ int main()
 	 return 0;	
 }
     printf("Paso 2: registro-login\n");
+    printf("Paso 3: reserva-beacon\n");
