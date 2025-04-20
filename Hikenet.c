@@ -15,3 +15,4 @@ int main()
     printf("Paso 2: registro-login\n");
     printf("Paso 3: reserva-beacon\n");
     printf("Paso 4: activacion-monitoreo\n");
+    printf("Paso 5: emergencia-sos\n");
